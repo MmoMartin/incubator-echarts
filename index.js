@@ -84,6 +84,10 @@ require("./lib/chart/custom");
 
 require("./lib/component/grid");
 
+require("./lib/component/xAxis");
+
+require("./lib/component/yAxis");
+
 require("./lib/component/polar");
 
 require("./lib/component/geo");
@@ -133,3 +137,4 @@ require("./lib/component/visualMapPiecewise");
 require("zrender/lib/vml/vml");
 
 require("zrender/lib/svg/svg");
+
